@@ -1,1 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Bioinformatics Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="index.html">Bioinformatics & IRRI</a>
+      <button class="menu-toggle" aria-label="Toggle navigation" id="menuToggle">☰</button>
+      <ul id="menu" class="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <img src="assets/img/hero.jpg" alt="Hero image" class="hero-img">
+      <h1>Bioinformatics & IRRI</h1>
+      <p>Research, tools, and resources for plant bioinformatics.</p>
+    </section>
+
+    <section class="intro">
+      <p>IRRI Bioinformatics Portal</p>
+    </section>
+
+    <section class="tiles">
+      <a class="tile" href="projects.html">Projects</a>
+      <a class="tile" href="people.html">People</a>
+      <a class="tile" href="resources.html">Resources</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; <span id="year"></span> Bioinformatics Portal</p>
+  </footer>
+
+  <script>
+    // simple toggle for mobile menu
+    const btn = document.getElementById('menuToggle');
+    const menu = document.getElementById('menu');
+    btn.addEventListener('click', () => {
+      menu.classList.toggle('open');
+    });
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
 
