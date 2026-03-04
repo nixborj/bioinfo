@@ -1,9 +1,3 @@
-# IRRI Bioinformatics Portal (Jekyll + Just the Docs)
+**IRRI Bioinformatics Portal**
 
-## Local preview
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Open http://127.0.0.1:4000
+Website for Bioinformatics Team
