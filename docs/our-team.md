@@ -16,4 +16,10 @@ nav_order: 2
     </p>
   </div>
 
+ <div class="team-member">
+  <img src="{{ '/assets/images/another.png' | relative_url }}" alt="Name">
+  <h3>Name</h3>
+  <p class="team-title">Title</p>
+ </div>
+
 </div>
