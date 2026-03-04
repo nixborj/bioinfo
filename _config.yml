@@ -1,23 +1,13 @@
 title: IRRI Bioinformatics Portal
 description: One stop shop for IRRI bioinformatics
-
 remote_theme: just-the-docs/just-the-docs
+color_scheme: light # options: light, dark, fs (fs = full width)
 
-url: "https://nixborj.github.io"
-baseurl: "/bioinfo"
-
+# This enables the "Coursera-style" search bar
 search_enabled: true
-heading_anchors: true
-nav_sort: case_insensitive
 
-plugins:
-  - jekyll-remote-theme
-
+# This creates the navigation hierarchy
 aux_links:
-  "IRRI Main Site":
-    - "https://www.irri.org/"
+  "GitHub Repo": "https://github.com/nixborj/bioinfo"
 
-nav_external_links:
-  - title: Consultation
-    url: https://www.google.com/
-    opens_in_new_tab: true
+footer_content: "© 2026 IRRI Bioinformatics"
