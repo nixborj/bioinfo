@@ -1,5 +1,5 @@
 ---
-layout: Our Team
+layout: team
 title: Our Team
 nav_order: 2
 ---
