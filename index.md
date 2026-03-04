@@ -22,9 +22,9 @@ One stop shop for IRRI bioinformatics.
 
 ## Featured links
 
-<a href="https://www.youtube.com/watch?v=Iryp3Omtuog" target= "blank")> SNP-Seek V3 </a>
-<a href="youtube.com/watch?v=QSu1i2sIJ-4&feature=youtu.be" target= "blank")> CropGalaxy </a>
-<a href="https://www.youtube.com/watch?v=pHeJrvSEWgY" target= "blank")> ImageBreed </a>
+- [SNP-Seek V3] <a href="https://www.youtube.com/watch?v=Iryp3Omtuog" target= "blank")> SNP-Seek V3 </a>
+- [CropGalaxy] <a href="youtube.com/watch?v=QSu1i2sIJ-4&feature=youtu.be" target= "blank")> CropGalaxy </a>
+- [ImageBreed] <a href="https://www.youtube.com/watch?v=pHeJrvSEWgY" target= "blank")> ImageBreed </a>
 - [RicePilaf]
 
 ---
