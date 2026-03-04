@@ -1,7 +1,14 @@
 ---
+layout: home
 title: Home
-nav_order: 1
+nav_order: 0
 ---
+
+<div style="width: 100%; margin-bottom: 30px;">
+    <img src="{{ site.baseurl }}/assets/images/banner.png" 
+         alt="IRRI Bioinformatics Portal" 
+         style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</div>
 
 # IRRI Bioinformatics Portal
 
@@ -19,3 +26,5 @@ One stop shop for IRRI bioinformatics.
 - [CropGalaxy](https://youtu.be/)
 - [ImageBreed](https://youtu.be/)
 - [RicePilaf](https://docs.google.com/)
+
+---
