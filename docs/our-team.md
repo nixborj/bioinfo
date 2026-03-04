@@ -1,6 +1,6 @@
 ---
 layout: Our Team
-title: 1. Ensembl
+title: Our Team
 nav_order: 2
 ---
 
