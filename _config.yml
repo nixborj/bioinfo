@@ -3,7 +3,7 @@ description: One stop shop for IRRI bioinformatics
 
 theme: just-the-docs
 
-url: https://bioinfo.irri.org
+url: ""
 baseurl: ""
 
 search_enabled: true
