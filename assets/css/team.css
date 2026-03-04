@@ -1,7 +1,7 @@
 .team-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 40px;
+  gap: 25px;
   margin-top: 40px;
 }
 
@@ -10,8 +10,8 @@
 }
 
 .team-member img {
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   border-radius: 50%;
 }
