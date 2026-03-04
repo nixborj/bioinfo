@@ -1,0 +1,20 @@
+title: IRRI Bioinformatics Portal
+description: One stop shop for IRRI bioinformatics
+
+theme: just-the-docs
+
+url: https://bioinfo.irri.org
+baseurl: ""
+
+search_enabled: true
+heading_anchors: true
+nav_sort: case_insensitive
+
+aux_links:
+  "IRRI Main Site":
+    - "https://www.irri.org/"
+
+nav_external_links:
+  - title: Consultation
+    url: https://www.google.com/
+    opens_in_new_tab: true
