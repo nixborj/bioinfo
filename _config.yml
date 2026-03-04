@@ -1,7 +1,7 @@
 title: IRRI Bioinformatics Portal
 description: One stop shop for IRRI bioinformatics
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: ""
 baseurl: ""
@@ -9,6 +9,9 @@ baseurl: ""
 search_enabled: true
 heading_anchors: true
 nav_sort: case_insensitive
+
+plugins:
+  - jekyll-remote-theme
 
 aux_links:
   "IRRI Main Site":
