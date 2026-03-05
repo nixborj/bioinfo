@@ -8,7 +8,7 @@ nav_order: 2
 <div class="team-grid">
 
   <div class="team-member">
-    <img src="{{ '/assets/images/mau.png' | relative_url }}" alt="Mau Mauleon">
+    <img src="{{'/assets/images/mau.png' | relative_url }}" alt="Mau Mauleon">
     <h3>Mau Mauleon</h3>
     <p class="team-title">
       Senior Scientist I - Bioinformatics &amp; Genomics
@@ -16,7 +16,7 @@ nav_order: 2
   </div>
 
  <div class="team-member">
-  <img src="{{ '/assets/images/dima.png' | relative_url }}" alt="Dima Chebotarov">
+  <img src="{{'/assets/images/dima.png' | relative_url }}" alt="Dima Chebotarov">
   <h3>Dima Chebotarov</h3>
   <p class="team-title">
     Scientist II - Computational Genetics
@@ -24,7 +24,7 @@ nav_order: 2
  </div>
 
  <div class="team-member">
-  <img src="{{ '/assets/images/jeff.png' | relative_url }}" alt="Jeff Detras">
+  <img src="{{'/assets/images/jeff.png' | relative_url }}" alt="Jeff Detras">
   <h3>Jeff Detras</h3>
   <p class="team-title">
     Senior Specialist - Bioinformatics
@@ -32,7 +32,7 @@ nav_order: 2
  </div>
 
  <div class="team-member">
-  <img src="{{ '/assets/images/riza.png' | relative_url }}" alt="Riza Pasco">
+  <img src="{{'/assets/images/riza.png' | relative_url }}" alt="Riza Pasco">
   <h3>Riza Pasco</h3>
   <p class="team-title">
     Junior Specialist - Bioinformatics
@@ -40,7 +40,7 @@ nav_order: 2
  </div>
 
  <div class="team-member">
-  <img src="{{ '/assets/images/nikki.png' | relative_url }}" alt="Nikki Borja">
+  <img src="{{'/assets/images/nikki.png' | relative_url }}" alt="Nikki Borja">
   <h3>Nikki Borja</h3>
   <p class="team-title">
     Junior Specialist - Bioinformatics
