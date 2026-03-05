@@ -13,6 +13,7 @@
   width: 140px !important;
   height: 140px !important;
   object-fit: cover;
+  object-position: center top;
   border-radius: 6px;
 }
 
