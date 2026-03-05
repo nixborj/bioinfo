@@ -13,6 +13,7 @@
   width: 140px !important;
   height: 140px !important;
   object-fit: contain;
+  border-radius: 6px;
 }
 
 .team-title {
