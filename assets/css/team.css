@@ -10,10 +10,10 @@
 }
 
 .team-member img {
-  width: 160px !important;
-  height: 160px !important;
+  width: 180px !important;
+  height: 180px !important;
   object-fit: contain;
-  border-radius: 20px;
+  border-radius: 30px;
 }
 
 .team-title {
