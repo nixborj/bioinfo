@@ -1,4 +1,9 @@
-# Service Packages - Bioinformatics
+---
+layout: team
+title: Service Packages
+nav_order: 2
+---
+# Service Packages
 
 The Bioinformatics team offers several specialized service packages for genomic and phenomic data analysis.
 
